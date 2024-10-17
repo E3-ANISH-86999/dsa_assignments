@@ -36,7 +36,7 @@ int recLinearSearch(int arr[SIZE], int key, int i){
 		else 
 			res = recLinearSearch(arr, key, ++i);
 	
-	return res;
+//	return res;
 
 }
 

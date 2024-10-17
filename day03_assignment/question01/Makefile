@@ -1,4 +1,4 @@
-TARGET=recBinarySearch
+TARGET=recLinearSearch
 CC=gcc
 
 
